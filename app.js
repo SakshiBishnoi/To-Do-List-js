@@ -26,10 +26,10 @@ while( input !== 'quit' && input !== 'q'){
     
     
     
-    //input = prompt('Enter Your To-Do Task Here!');
+    input = prompt('Enter Your To-Do Task Here!');
 }
     
 
 
 alert('Thanks for Visting!');
-//console.log("-Over-");
+console.log("Thanks for Visting!");
